@@ -102,6 +102,10 @@ p {
     object-fit: cover;
 }
 
+.img-main:hover {
+    opacity: 0.5;
+}
+
 .main-content p,
 form {
     max-width: 450px;
